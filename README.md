@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a chat application that works on localhost, where a user can sign up/ log in and chat with another user. It uses web sockets to establish and maintain connections between users.
+The backend was built using Loopback 3.
+The frontend has been built on React, using Redux to manage application state.
 
 ## Available Scripts
 
